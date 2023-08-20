@@ -1,7 +1,8 @@
 # YOLO-from-Scratch-
 
 YOLOV2/ YOLOV9000 paper: https://arxiv.org/pdf/1612.08242.pdf 
-All the important points: 
+
+## All the important points: 
 
 YOLO V1 has relatively low recall compared to region proposal-based methods. Thus YOLOV2  focuses mainly on improving recall and localization while maintaining classification accuracy.
 
