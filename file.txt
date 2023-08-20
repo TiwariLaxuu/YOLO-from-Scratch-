@@ -1,0 +1,5 @@
+Batch Normalization. Batch normalization leads to significant improvements in convergence while eliminating the
+need for other forms of regularization [7]. By adding batch
+normalization on all of the convolutional layers in YOLO
+we get more than 2% improvement in mAP. Batch normalization also helps regularize the model. With batch normalization we can remove dropout from the model without
+overfitting.
